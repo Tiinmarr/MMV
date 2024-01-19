@@ -1,0 +1,10 @@
+﻿  Moc'ing  Include\qte.h  into  Source\moc_qte.cpp
+  'C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
+  Compiling  UI\interface.ui  into  Include\ui_interface.h
+  'C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
+  Moc'ing  Include\realtime.h  into  Source\realtime-moc.cpp
+  'C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(249,5): error MSB8066: la build personnalisée de 'Include\qte.h;UI\interface.ui;Include\realtime.h' s'est arrêtée. Code 9009.
